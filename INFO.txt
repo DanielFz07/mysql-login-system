@@ -1,0 +1,6 @@
+- these two scripts are gamemodes
+- both of them do the same, the only difference is HOW they do it
+- one uses the cache functions, the other one the ORM system
+- feel free to use these scripts like you want
+- don't forget to edit the MySQL configuration in the gamemodes
+- the gamemodes automatically create the correct table(s)
